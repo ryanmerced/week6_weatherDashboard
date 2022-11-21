@@ -1,0 +1,12 @@
+/* Background image info for header */
+header {
+    background-image: url("../images/stormy-sky.jpg");
+    background-position: center 80%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* Setting fixed width for search form elements */
+#cityInput, #countries, #states, #searchButton {
+    width: 200px;
+}
